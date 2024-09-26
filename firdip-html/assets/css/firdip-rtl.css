@@ -9901,7 +9901,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .mobile-nav__close {
   position: absolute;
-  top: 20px;
+  top: -5px;
   left: 15px;
   font-size: 18px;
   color: var(--firdip-white, #fff);
